@@ -247,4 +247,8 @@ h1 {
   .copyright span {
     display: none;
   }
+
+  .logo span {
+    display: none;
+  }
 }
